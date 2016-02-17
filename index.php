@@ -1,4 +1,4 @@
 <?php
 
-echo "Welcome to Baker St`";
+echo "Welcome to OpenShift";
 
